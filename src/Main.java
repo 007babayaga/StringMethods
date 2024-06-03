@@ -37,6 +37,9 @@ public class Main {
         System.out.println("the char at two  would be = "+i.charAt(2));
         System.out.println("the length of the string would be = "+i.toLowerCase());
         System.out.println("the length of the string would be = "+i.indexOf('R'));
+        System.out.println("the length of the string would be = "+i.indexOf('T'));
+
+
 
 
 
